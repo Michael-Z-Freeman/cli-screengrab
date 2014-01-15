@@ -1,7 +1,7 @@
 cli-screengrab
 ==============
 
-Requires: Graphics Magick command line utilities, or similiar; alter batch file accordingly. 
+Requires: Graphics Magick command line utilities ( http://www.graphicsmagick.org/ ), or similiar; alter batch file accordingly. 
 
 Windows command line screen grab utility. The screen grab does not have to be based on what is on the current monitor as the utility saves a bitmap based on the given Window name. This is useful for full screen windows created by browser video players. 
 
