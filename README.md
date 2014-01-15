@@ -3,6 +3,12 @@ cli-screengrab
 
 Requires: Graphics Magick command line utilities ( http://www.graphicsmagick.org/ ), or similiar; alter batch file accordingly. 
 
+Examples of usage: 
+
+Screengrab - http://forum.nasaspaceflight.com/index.php?topic=33743.msg1145651#msg1145651
+
+Ani Gif made from multiple screen grabs (using Gimp) - http://forum.nasaspaceflight.com/index.php?topic=33743.msg1145668#msg1145668
+
 Windows command line screen grab utility. The screen grab does not have to be based on what is on the current monitor as the utility saves a bitmap based on the given Window name. This is useful for full screen windows created by browser video players. 
 
 At the moment the utility is quite basic, but I've been using it successfully. It has proved to be effective at capturing screen shots of live space walks from NASA TV. 
