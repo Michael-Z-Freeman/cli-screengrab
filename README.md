@@ -1,6 +1,8 @@
 cli-screengrab
 ==============
 
+![Alt text](https://raw.github.com/djbarney/cli-screengrab/master/example-output.jpg "Example Output")
+
 Requires: Graphics Magick command line utilities ( http://www.graphicsmagick.org/ ), or similiar; alter batch file accordingly. 
 
 Examples of usage: 
